@@ -1,4 +1,4 @@
 # TestDemo
 This is my first git repo. 
 <br>
-Author- Appy
+Author- Appy Srivastava
